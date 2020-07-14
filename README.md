@@ -1,6 +1,6 @@
 # Hello ✨
 
-Hi, I'm Bruno (rosilva)! I'm a data scientist working at ArcelorMittal and I'm is passionate about 
+Hi, I'm Bruno (rosilva)! I'm a data scientist working at ArcelorMittal and studying Artificial Intelligence at Poli-USP. I'm is passionate about 
 <ul>
   <li>finding the best solutions to complex problems using data;</li>
   <li>freeing people to push themselves into more deep, human tasks with automation.</li>
