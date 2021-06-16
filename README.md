@@ -1,6 +1,6 @@
 # Hello ✨
 
-Hi, I'm Bruno (rosilva)! I'm a data scientist working at Boa Vista, MSc. Student in Mechatronics Engineering (my thesis is on computer vision) and Specialization Student in Artificial Intelligence, both at Poli-USP. I'm passionate about 
+Hi, I'm Bruno (rosilva)! I'm a data scientist working at [Globo](https://www.globo.com/), MSc. Student in Mechatronics Engineering (my thesis is on computer vision) and Specialization Student in Artificial Intelligence, both at Poli-USP. I'm passionate about 
 <ul>
   <li>finding the best solutions to complex problems using data;</li>
   <li>freeing people to push themselves into more deep, human tasks with automation.</li>
