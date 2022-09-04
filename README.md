@@ -7,7 +7,7 @@ Hi, I'm Bruno (rosilva) Chicelli! I'm a senior data scientist working at [Globo]
 </ul>
 
 Look me up 🌎<br><br>
-[![CV_O Badge](https://img.shields.io/badge/CV-Overview-black)](https://rosilva.carrd.co/)
-[![CV Badge](https://img.shields.io/badge/CV-Complete-blueviolet)](https://github.com/brunorosilva/CV-BRS/blob/main/Bruno_Rodrigues_CV.pdf)
+[![CV Badge](https://img.shields.io/badge/CV-Overview-black)](https://rosilva.carrd.co/)
+[![Resume Badge](https://img.shields.io/badge/Resume-PDF-blueviolet)](https://github.com/brunorosilva/CV-BRS/blob/main/Bruno_Rodrigues_CV.pdf)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-brunorosilva-blue)](https://www.linkedin.com/in/brunorosilva)
 [![Medium Badge](https://img.shields.io/badge/Medium-@brunorosilva-white)](https://medium.com/@brunorosilva)
