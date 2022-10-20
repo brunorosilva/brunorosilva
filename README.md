@@ -7,7 +7,10 @@ Hi, I'm Bruno (rosilva) Chicelli! I'm a senior data scientist working at [Globo]
 </ul>
 
 Look me up 🌎<br><br>
-[![CV Badge](https://img.shields.io/badge/CV-Overview-black)](https://rosilva.carrd.co/)
-[![Resume Badge](https://img.shields.io/badge/Resume-PDF-blueviolet)](https://github.com/brunorosilva/CV-BRS/blob/main/Bruno_Rodrigues_CV.pdf)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-brunorosilva-blue)](https://www.linkedin.com/in/brunorosilva)
-[![Medium Badge](https://img.shields.io/badge/Medium-@brunorosilva-white)](https://medium.com/@brunorosilva)
+
+<div> 
+  <a href="https://github.com/brunorosilva/CV-BRS/blob/main/Bruno_Rodrigues_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" target="_blank"></a>
+  <a href="https://rosilva.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+ 	<a href="https://medium.com/@brunorosilva" target="_blank"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunorosilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
