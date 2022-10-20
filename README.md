@@ -1,12 +1,17 @@
 # Hello ✨
 
-Hi, I'm Bruno (rosilva) Chicelli! I'm a senior data scientist working at [Globo](https://www.globo.com/), MSc. Student in Mechatronics Engineering (dissertation on Deep Reinforcement Learning for Traffic Control) and Specialist in Artificial Intelligence (worked on Computer Vision for Vehicle Counting), both at the Polytechnic School of the University of São Paulo. I'm passionate about 
-<ul>
-  <li>finding the best solutions to complex problems using data;</li>
-  <li>freeing people to push themselves into more deep, human tasks with automation.</li>
-</ul>
+Hi, I'm Bruno `rosilva` Chicelli. I like building great stuff with data!
 
-Look me up 🌎<br><br>
+## Work
+Senior Data Scientist working at [Globo](https://github.com/globocom) with video, audio and text metadata extraction for digital products and I also create ad-related products in digital and broadcasting environments.
+
+## Research
+- MSc. Student in Mechatronics Engineering - dissertation on Deep Reinforcement Learning for Traffic Control;
+- Specialist in Artificial Intelligence - dissertation Computer Vision for Vehicle Counting
+
+both at the Polytechnic School of the University of São Paulo.
+
+Reach out 🌎<br><br>
 
 <div> 
   <a href="https://github.com/brunorosilva/CV-BRS/blob/main/Bruno_Rodrigues_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" target="_blank"></a>
