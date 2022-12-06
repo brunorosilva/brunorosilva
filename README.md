@@ -19,3 +19,7 @@ Reach out 🌎<br><br>
  	<a href="https://medium.com/@brunorosilva" target="_blank"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunorosilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
