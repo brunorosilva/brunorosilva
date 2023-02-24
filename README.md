@@ -22,6 +22,7 @@ Reach out 🌎<br><br>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AugLy, the Facebook &lpar;Meta&rpar; tool for Data Augmentation Part 1 - Images](https://brunorosilva.medium.com/augly-the-facebook-meta-tool-for-data-augmentation-part-1-images-bbf94bf80df6?source=rss-9c9a68883d13------2)
 - [Interactive Calendar Heatmaps with Plotly, the easieast way you&#39;ll find](https://python.plainenglish.io/interactive-calendar-heatmaps-with-plotly-the-easieast-way-youll-find-5fc322125db7?source=rss-9c9a68883d13------2)
 - [The simplest way of making GIFs and math videos with Python](https://towardsdatascience.com/the-simplest-way-of-making-gifs-and-math-videos-with-python-aec41da74c6e?source=rss-9c9a68883d13------2)
 - [A maneira mais simples de fazer GIFs e vídeos matemáticos em Python](https://brunorosilva.medium.com/a-maneira-mais-simples-de-fazer-gifs-e-v%C3%ADdeos-matem%C3%A1ticos-em-python-86612adbfc9?source=rss-9c9a68883d13------2)
