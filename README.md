@@ -3,7 +3,7 @@
 Hi, I'm Bruno `rosilva` Chicelli. I like building great stuff with data!
 
 ## Work
-Senior Data Scientist working at [Globo](https://github.com/globocom) with video, audio and text metadata extraction for digital products and I also work with digital pricing optimization and ad-related products in digital and broadcasting environments.
+Staff Data Scientist working at [Globo](https://github.com/globocom) with video, audio and text metadata extraction for digital products and I also work with digital pricing optimization and ad-related products in digital and broadcasting environments.
 
 ## Research
 - MSc. Student in Mechatronics Engineering - dissertation on Deep Reinforcement Learning for Traffic Control;
