@@ -3,13 +3,7 @@
 Hi, I'm Bruno `rosilva` Chicelli. I like building great stuff with data!
 
 ## Work
-Staff Data Scientist working at [Globo](https://github.com/globocom) with graph data science, graph neural networks and also with video, audio and text metadata extraction for digital products.
-
-## Research
-- MSc. Student in Mechatronics Engineering - dissertation on Deep Reinforcement Learning for Traffic Control;
-- Specialist in Artificial Intelligence - dissertation Computer Vision for Vehicle Counting
-
-both at the Polytechnic School of the University of São Paulo.
+Senior AI Engineer working at [Handoff.ai](https://handoff.ai/) with LLMs, MLLMs and everything else data related.
 
 Reach out 🌎<br><br>
 
@@ -19,6 +13,7 @@ Reach out 🌎<br><br>
     <img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
  	<a href="https://medium.com/@brunorosilva" target="_blank"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunorosilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://todoistanalytics.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/-Streamlit-333?style=for-the-badge&logo=streamlit&logoColor=red" target="_blank"></a> 
 </div>
 
 ## Blog posts
