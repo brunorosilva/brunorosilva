@@ -2,7 +2,7 @@
 
 Hi, I'm Bruno `rosilva` Chicelli. I like building great stuff with data!
 
-I work as a Senior AI Engineer at [Handoff.ai](https://handoff.ai/) with LLMs, MLLMs and everything else data related.
+I work as a Senior AI Engineer at [Handoff.ai](https://handoff.ai/) with LLMs, ViTs and everything else ML related.
 
 Reach out 🌎<br><br>
 
