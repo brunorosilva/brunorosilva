@@ -11,7 +11,7 @@ Reach out 🌎<br><br>
   <a href="https://brunorosilva.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
  	<a href="https://medium.com/@brunorosilva" target="_blank"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a><br>
-  <a href="https://www.linkedin.com/in/brunorosilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+  <a href="https://www.linkedin.com/in/brunorosilva" target="_blank"><br><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
   <a href="https://todoistanalytics.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/-Todoist_Analytics-333?style=for-the-badge&logo=streamlit&logoColor=red" target="_blank"></a> 
 </div>
 
