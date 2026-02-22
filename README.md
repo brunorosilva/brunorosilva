@@ -6,16 +6,16 @@ I like building great stuff with data 🚀
 I work as a Senior AI Engineer at [Handoff.ai](https://handoff.ai/) building with LLMs, ViTs and everything else ML related.
 
 Reach out 🌎👇<br><br>
-- 📄 <a href="https://github.com/brunorosilva/CV-BRS/blob/main/Bruno_Rodrigues_CV.pdf" target="_blank">Resume</a> — My professional experience, projects, and technical skills.</li>
-- 🌐 <a href="https://brunorosilva.github.io/" target="_blank">Portfolio</a> — Selected AI, machine learning, and software engineering projects.</li>
-- ✍️ <a href="https://medium.com/@brunorosilva" target="_blank">Medium</a> — Articles about AI, computer vision, and Python.</li>
-- 💼 <a href="https://www.linkedin.com/in/brunorosilva" target="_blank">LinkedIn</a> — Professional background, career updates, and networking.</li>
+- 📄 <a href="https://github.com/brunorosilva/CV-BRS/blob/main/Bruno_Rodrigues_CV.pdf" target="_blank">Resume</a> - My professional experience, projects, and technical skills.</li>
+- 🌐 <a href="https://brunorosilva.github.io/" target="_blank">Portfolio</a> - Selected AI, machine learning, and software engineering projects.</li>
+- ✍️ <a href="https://medium.com/@brunorosilva" target="_blank">Medium</a> - Articles about AI, computer vision, and Python.</li>
+- 💼 <a href="https://www.linkedin.com/in/brunorosilva" target="_blank">LinkedIn</a> - Professional background, career updates, and networking.</li>
 ## Projects
-- 🎨 <a href="https://github.com/brunorosilva/img2art-search" target="_blank">Image to Art Search</a> — Search real artwork that looks like any image using Vision Transformers (code + demo).</li>
-- 📅 <a href="https://github.com/brunorosilva/plotly-calplot" target="_blank">Plotly Calplot</a> — Interactive calendar heatmaps with Plotly (code + article).</li>
-- 📈 <a href="https://github.com/brunorosilva/todoist-analytics" target="_blank">Todoist Analytics</a> — Analytics dashboard for Todoist with an interactive demo.</li>
-- 🧾 <a href="https://github.com/brunorosilva/linkedin-job-classifier" target="_blank">NLP Job Classifier</a> — Job classifier web app using scraped LinkedIn data.</li>
-- 🌌 <a href="https://github.com/brunorosilva/3js-glowing-sphere" target="_blank">3JS Glowing Sphere</a> — A Three.js learning project building a glowing sphere.</li>
+- 🎨 <a href="https://github.com/brunorosilva/img2art-search" target="_blank">Image to Art Search</a> - Search real artwork that looks like any image using Vision Transformers (code + demo).</li>
+- 📅 <a href="https://github.com/brunorosilva/plotly-calplot" target="_blank">Plotly Calplot</a> - Interactive calendar heatmaps with Plotly (code + article).</li>
+- 📈 <a href="https://github.com/brunorosilva/todoist-analytics" target="_blank">Todoist Analytics</a> - Analytics dashboard for Todoist with an interactive demo.</li>
+- 🧾 <a href="https://github.com/brunorosilva/linkedin-job-classifier" target="_blank">NLP Job Classifier</a> - Job classifier web app using scraped LinkedIn data.</li>
+- 🌌 <a href="https://github.com/brunorosilva/3js-glowing-sphere" target="_blank">3JS Glowing Sphere</a> - A Three.js learning project building a glowing sphere.</li>
 
 ## Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
